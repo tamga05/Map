@@ -355,11 +355,3 @@ template {
 [hidden] {
     display: none;
 }
-
-p {
-    color: #ea00ff;
-    font-size: 50px;
-    font-weight: bold;
-    text-shadow: 2px 2px 5px;
-    padding: 20px 20px 0px;
-}

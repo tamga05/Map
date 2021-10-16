@@ -5,5 +5,11 @@
 }
 
 .fil0 {
-    fill: #eeeeee;
+    //fill: #eeeeee;
+    fill: #b5f7a8;
+
+    &:hover {
+        fill: #b1eff7;
+    }
 }
+
